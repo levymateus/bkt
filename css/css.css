@@ -1,0 +1,30 @@
+
+.jp-audio{
+	padding: 10px;
+}
+.jp-controls li{
+	list-style: none;
+	float: left;
+	padding: 3px;
+}
+.jp-play{ 
+	padding: 10px;
+	border: 2px solid black;
+	border-radius: 90px;
+	background-color: #eee;
+}
+.jp-play li:hover{
+	background-color: #fff;
+}
+.jp-pause{
+	padding: 5px;
+	border: 2px solid black;
+	border-radius: 90px;
+	background-color: #eee;
+}
+.jp-stop{
+	padding: 5px;
+	border: 2px solid black;
+	border-radius: 90px;
+	background-color: #eee;
+}

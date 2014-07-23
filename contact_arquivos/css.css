@@ -1,0 +1,24 @@
+/*css*/
+#mobile-header {
+    display: none;
+}
+#navigation{
+	display: none;
+}
+@media only screen and (max-width: 767px){
+    #mobile-header {display: block;}
+    .menu, .header, .off, .tab-song{display: none;}
+    #first-section span{ font-size: 18px;}
+}
+*{
+	margin: 0;
+}
+.row{
+	margin: auto;
+}
+h1{
+	text-align: center;
+}
+#demo-content, #demoheader{
+	display: none;
+}
