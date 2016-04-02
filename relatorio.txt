@@ -1,0 +1,9 @@
+# enviar versao anterio para o git
+# atualizar a estrutura do site para o bootstrap 3.3.6
+#revisar a estrutura html do site
+#revisar formularios, inputs, botoes
+#fazer estrutura html do bloco de "mp3 player"
+#programar erros nos formularios: upload de arquivos
+#programar listagem do arquivo com painel 
+# melhorar estrutura, para que as partes que nao mudam entre as paginas
+nao sejam carregadas todas vez
